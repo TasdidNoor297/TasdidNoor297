@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gazi%20Anas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Passionate%20Coder%20%7C%20Problem%20Solver&descAlignY=56&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tasdid%20Noor&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Passionate%20Coder%20%7C%20Problem%20Solver&descAlignY=56&descAlign=50"/>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" style="border-radius: 12px;" />
 </div>
@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;CSE+Student+%F0%9F%8E%93+%7C+Problem+Solver+%F0%9F%A7%A9;Always+coding%2C+always+growing+%F0%9F%9A%80;Open+to+collaborate+%26+learn+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
- Tasdid Noor
+ Tasdid Noor/n
  Studying Computer Science & Engineering
  
 
