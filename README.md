@@ -7,31 +7,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;CSE+Student+%F0%9F%8E%93+%7C+Problem+Solver+%F0%9F%A7%A9;Always+coding%2C+always+growing+%F0%9F%9A%80;Open+to+collaborate+%26+learn+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
-🙋‍♂️ About Me
-pythonclass GaziAnas:
-    name       = "Gazi Anas"
-    role       = "CSE Student & Aspiring Developer"
-    languages  = ["C", "C++", "Python"]
-    tools      = ["Git", "GitHub"]
-    passion    = "Turning ideas into code 💻"
-    motto      = "Code. Learn. Repeat. 🔁"
-
-🎓 Studying Computer Science & Engineering
-💡 Love solving algorithmic problems and building projects
-🌱 Currently sharpening my DSA & problem-solving skills
-💬 Ask me about C, C++, Python
-⚡ Fun fact: I debug with printf and I'm proud of it 😄
-
+ Tasdid Noor
+ Studying Computer Science & Engineering
+ 
 
 🌐 Connect With Me
 <p align="center">
-  <a href="YOUR_FACEBOOK_LINK" target="_blank">
+  <a href="https://www.facebook.com/tasdidnoor.himel08" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>&nbsp;
-  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+  <a href="https://www.instagram.com/tasdidnoor22/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>&nbsp;
-  <a href="mailto:YOUR_GMAIL_HERE" target="_blank">
+  <a href="mail to: tasdidnoor6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
   <a href="YOUR_LINKEDIN_LINK" target="_blank">
